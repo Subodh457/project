@@ -96,7 +96,8 @@ p {
 /* Responsive Styling for 480px */
 @media (max-width: 480px) {
   .paper {
-    padding: 10px 50px;
+    padding: 25px 30
+      px;
     box-shadow: 1px 8px 12px 0px rgba(0, 0, 0, 0.3);
     margin-left: 20px;
     margin-right: 20px;
